@@ -57,11 +57,11 @@ Model types explored were,
 
 ![graph1](Images/log-reg.png)
 
-After the cross validation and oversampling techniques there is an improvement in positive and negative tweets. Train accuracy is 83% and test accuracy is 65%. still the data is overfit.
+In the Logistic Regression model, After the cross validation and oversampling techniques there is an improvement in positive and negative tweets. Train accuracy is 83% and test accuracy is 65%. still the data is overfit.
 
 ![graph1](Images/naive-bayes.png)
 
-Both the training and testing models did not score well. This was because the training model overfit to the neutral tweets. This greatly lowered the models predicting power in pulling out the positive and negative tweets.
+In the Naive Bayes model, Both the training and testing models did not score well. This was because the training model overfit to the neutral tweets. This greatly lowered the models predicting power in pulling out the positive and negative tweets.
 
 ![graph1](Images/random-forest.png)
 
@@ -69,7 +69,7 @@ In the Random Forest model, there was a little improvement of predicting positiv
 
 ![graph1](Images/decision-tree.png)
 
-There was no improvement after cross validation and over sampling techniques. The f1 score also remains the same. 
+In the decision tree model, There was no improvement after cross validation and over sampling techniques. The f1 score also remains the same. 
 
 ![graph1](Images/xgboost.png)
 
