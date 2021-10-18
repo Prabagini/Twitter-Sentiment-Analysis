@@ -43,7 +43,7 @@ Apple has more tweets than Google
 
 ![graph1](Images/Apple-Google-tweets.png)
 
-![graph1](tweet-emotions.png)
+![graph1](Images/tweet-emotions.png)
 
 ## Modelling
 
@@ -97,18 +97,3 @@ Neural network achieved 93% accuracy on the training set and the loss function i
 
 
 
-
-## Repository Directory
-
-
-├── data             <-- Data in CSV format
-│
-├── images           <-- model visualization
-│   
-│
-├── jupyter notebook        <-- Jupyter Notebooks for exploration and report
-│   
-├── presentation     <-- Non technical presentation
-│
-└── README.md        <-- Main README file explaining the project's business case,
-│                        methodology, and findings
